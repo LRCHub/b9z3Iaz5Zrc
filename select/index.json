@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "るっせぇ女",
+  "base_artist": "ヤングスキニー",
+  "createdAt": "2026-02-19T14:34:21.898613Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "るっせぇ女",
+      "artist": "ヤングスキニー",
+      "has_synced": false,
+      "path": "select/pl_01_るっせぇ女_ヤングスキニー.txt"
+    }
+  ]
+}
